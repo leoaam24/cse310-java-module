@@ -44,3 +44,8 @@ For this project I used Java programming language using VS Code for my IDE. I al
 
 - https://www.youtube.com/watch?v=eIrMbAQSU34&t=8726s
 - https://dev.java/learn/getting-started/#more-learning
+
+# Future Work
+
+- Need to fix leaderboards to show every player's entry.
+- Need to add more guiding prompts for user inputs.
