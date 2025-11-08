@@ -2,7 +2,7 @@
 
 This is a Number Guessing Game application where players try to guess a randomly generated number within a custom range. The game tracks attempts, calculates scores, and maintains a leaderboard.
 
-[Software Demo Video](https://youtu.be/UppYjEW63zs)
+[Software Demo Video](https://youtu.be/wG81GW81Ol4)
 
 ## Purpose
 
